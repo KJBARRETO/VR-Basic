@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "com.google.xr.cardboard": "file:C:/Users/csalag10/Downloads/cardboard-xr-plugin-1.19.0/cardboard-xr-plugin-1.19.0",
-    "com.unity.ai.navigation": "2.0.9",
+    "com.google.xr.cardboard": "file:C:/Users/csalad4/Desktop/Recursos Descaragado Unity/cardboard-xr-plugin-1.19.0/cardboard-xr-plugin-1.19.0",
+    "com.unity.ai.navigation": "2.0.14",
+    "com.unity.burst": "1.8.30",
     "com.unity.collab-proxy": "2.10.2",
-    "com.unity.ide.rider": "3.0.38",
+    "com.unity.collections": "2.6.8",
+    "com.unity.ide.rider": "3.0.40",
     "com.unity.ide.visualstudio": "2.0.25",
     "com.unity.inputsystem": "1.17.0",
     "com.unity.multiplayer.center": "1.0.1",
