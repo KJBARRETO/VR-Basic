@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "VR-Basic.slnx"
+    "dotnet.defaultSolution": "VR-CardBoard-Example.slnx"
 }
